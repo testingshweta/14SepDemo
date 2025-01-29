@@ -6,7 +6,7 @@ public class DemoClass1 {
 		System.out.println("hello");
 		System.out.println("hello00000");
 		System.out.println("hello00000222");
-		System.out.println(" bye 12345567" );
+		System.out.println(" bye 00012345567" );
 	}
 
 }
